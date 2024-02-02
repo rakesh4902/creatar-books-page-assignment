@@ -12,12 +12,24 @@ The assignment entails designing a comprehensive web portal for a book company, 
 1.![Submit-poem01 png](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/84ee9a2a-3a92-48b1-8d39-7d35330b62e8)
 2.![Submit-poem02](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/e9391459-ad6a-4b54-9ba6-5c2a8d2901ec)
 
-## Getting Started This Application In Your Pc
+## How to Start This Application on Your Local PC
 
-### Commands To DO
+To start this application on your local PC, follow these step-by-step instructions:
 
-1.### npm install
-2.### npm start
+#### 1. Download the Code:
+- First, download the zip file containing the application code from the GitHub repository.
+
+#### 2. Unzip the File:
+- Unzip the downloaded file to access the application code.
+
+#### 3. Open with VS Code:
+- Open the unzipped folder using any code editor, such as Visual Studio Code.
+
+#### 4. npm install
+- Run the command for installing the required packages
+  
+#### 5. npm start
+- Now Run this command to start with the application
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
