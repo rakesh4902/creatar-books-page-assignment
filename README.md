@@ -12,6 +12,10 @@ The assignment entails designing a comprehensive web portal for a book company, 
 1.![Submit-poem01 png](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/84ee9a2a-3a92-48b1-8d39-7d35330b62e8)
 2.![Submit-poem02](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/e9391459-ad6a-4b54-9ba6-5c2a8d2901ec)
 
+### "Unlock the doors to a literary adventure! Delve into a curated collection of captivating books and unleash your creative spirit by sharing your own poetic creations. Click here to access our Book Company Web Portal and embark on a journey where stories come to life and imagination knows no bounds."
+
+### https://loquacious-crumble-d8a005.netlify.app
+
 ## How to Start This Application on Your Local PC
 
 To start this application on your local PC, follow these step-by-step instructions:
