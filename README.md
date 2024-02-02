@@ -14,7 +14,7 @@ The assignment entails designing a comprehensive web portal for a book company, 
 
 ### "Unlock the doors to a literary adventure! Delve into a curated collection of captivating books and unleash your creative spirit by sharing your own poetic creations. Click here to access our Book Company Web Portal and embark on a journey where stories come to life and imagination knows no bounds."
 
-### https://loquacious-crumble-d8a005.netlify.app
+### https://books-palace.onrender.com
 
 ## How to Start This Application on Your Local PC
 
