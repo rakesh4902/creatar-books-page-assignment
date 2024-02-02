@@ -1,0 +1,90 @@
+.submission-page{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 80vh;
+}
+
+.submission-head{
+    font-size:30px;
+    color:chocolate;
+}
+
+
+.submission-form{
+    align-items: center;
+    margin-top:40px;
+}
+
+.form-group{
+    display:flex;
+    flex-direction: column;
+}
+
+.title{
+    font-size:18px;
+    font-weight: 500;
+    line-height: 1.5;
+    padding-bottom:2px;
+    margin-top:5px;
+    font-family: 'Roboto';
+}
+
+.text-head-input{
+    height:20px;
+    border-radius: 5px;
+    border:solid;
+
+}
+
+.text-input{
+    width:340px;
+    height:200px;
+    border:solid;
+    resize: none;
+}
+
+.submit-button{
+    color:#ffffff;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    border:none;
+    padding:10px;
+    font-weight: bold;
+    margin-left:120px;
+    margin-top:10px;
+    cursor: pointer;
+}
+
+.submission-message{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height:70vh;
+    margin-top: 100px;
+}
+
+.re-submit-button{
+    color:#ffffff;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    border:none;
+    padding:10px;
+    font-weight: bold;
+    margin-top:10px;
+    cursor: pointer;
+}
+
+.submission-tick{
+    color:white;
+    background-color: green;
+    border-radius:100%;
+}
+
+.re-submit-para{
+    color:darkgreen;
+    font-size: 25px;
+    font-weight: bold;
+}

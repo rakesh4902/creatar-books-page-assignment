@@ -1,0 +1,37 @@
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #45678b;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top:80px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .home-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 80vh;
+  }
+
+.home-head{
+    font-size: 50px;
+    color: #966F33;
+    font-family: 'Roboto';
+}
+
+  .home-para{
+    font-family: 'Roboto';
+    margin-left:40px;
+    margin-right:40px; 
+    font-size:22px;
+  }

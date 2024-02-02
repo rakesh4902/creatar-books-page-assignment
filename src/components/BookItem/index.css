@@ -1,0 +1,38 @@
+.book-item{
+    margin:10px;
+    width:300px;
+    height:500px;
+}
+
+.book-cover{
+    height:200px;
+    width:200px;
+}
+
+.book-description{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-title{
+    color:indigo;
+    font-size:20px;
+    font-family: 'Roboto';
+}
+
+.author{
+    color:darkred;
+    font-size:15px;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.book-author{
+    color:black;
+    font-weight: bold;
+}
+
+.book-description{
+    color:seagreen;
+    font-weight: bold;
+}

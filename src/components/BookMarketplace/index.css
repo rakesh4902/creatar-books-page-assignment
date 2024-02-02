@@ -1,0 +1,20 @@
+
+.marketplace-page{
+    display:flex;
+    flex-direction: column;
+
+}
+
+.marketplace-head{
+    text-align: center;
+    color:blueviolet;
+    font-family: 'Roboto';
+    font-size: 30px;
+}
+
+.book-list{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left:120px;
+}
