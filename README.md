@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Books Page Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The assignment entails designing a comprehensive web portal for a book company, comprising a landing page, a book marketplace, and a poem submission platform. The landing page will offer a succinct introduction to the company's ethos and services, along with prominent buttons guiding users to the marketplace and the poem submission section. The marketplace page will prominently display book covers, titles, authors, prices, and brief descriptions, facilitating easy browsing and informed decisions. Additionally, the poem submission platform will feature a user-friendly form for submitting poems, ensuring a seamless experience for contributors.
 
-## Available Scripts
+#### Landing Page
+![HomePage](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/cde46ed8-6bb5-48ab-bd25-562cdb79375d)
 
-In the project directory, you can run:
+#### Book Marketplace Page
+![book-marketplace](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/12362caa-b690-4ea5-bd7b-16abff829ed7)
 
-### `npm start`
+#### Poem Submission Platform
+1.![Submit-poem01 png](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/84ee9a2a-3a92-48b1-8d39-7d35330b62e8)
+2.![Submit-poem02](https://github.com/rakesh4902/todos-task-claimzippy-assignment-/assets/83058036/e9391459-ad6a-4b54-9ba6-5c2a8d2901ec)
+
+## Getting Started This Application In Your Pc
+
+### Commands To DO
+
+1.### npm install
+2.### npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
